@@ -1,5 +1,5 @@
 # SDD
-The official implementation for "Self-Distilled Disentangled Learning for Counterfactual Prediction"
+The official implementation for [Self-Distilled Disentangled Learning for Counterfactual Prediction](https://dl.acm.org/doi/pdf/10.1145/3637528.3671782?casa_token=BIAnDAgF-AsAAAAA:vPl3Y9xhRft14uHHzHh93kzg5NVvIRZaTXcB2GS7YdX3daL4tT7iL5cspLx0bDKf1GLHKVBlkljKQ80).
 
 ## Citation
 
